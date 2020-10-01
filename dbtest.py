@@ -1,5 +1,4 @@
-import mysql.connector
-import sys
+import mysql.connector, sys
 from mysql.connector import errorcode
 
 
